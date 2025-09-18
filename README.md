@@ -1,17 +1,30 @@
-# Portafolio personal — Actividad práctica real (2º DAW)
+# Portafolio personal - Actividad práctica
 
-Proyecto sencillo para practicar **Git y GitHub**.
+Repo para la actividad práctica de 2º DAW.  
+Objetivo: practicar Git y GitHub con un proyecto sencillo.
 
-## Pasos de la actividad
-- [x] 1) Crear repositorio: **PabloSevillanoactividadPracticaRealPortafolio**
-- [x] 2) Clonar en local (`git clone`)
-- [x] 3) Crear archivos: `index.html`, `style.css`, `script.js`
-- [x] 4) Primer commit (estructura básica)
+---
 
-## Qué hay ahora mismo
-- **index.html**: título y párrafo.
-- **style.css**: estilos mínimos.
-- **script.js**: mensaje en consola.
+## Pasos hechos
 
-## Alumno
-Pablo Sevillano Aparicio — 17/09/2025
+- [x] Crear repo en GitHub
+- [x] Clonar en local
+- [x] Archivos iniciales: index.html, style.css, script.js
+- [x] Primer commit
+- [x] Rama `contacto-form` con formulario
+- [x] Pull Request y merge a `main`
+- [ ] Issue: “Añadir validación de formulario”
+
+---
+
+## Archivos
+
+- **index.html** → página con título, texto y formulario
+- **style.css** → estilos básicos
+- **script.js** → mensaje en consola
+
+---
+
+## Autor
+
+Pablo Sevillano Aparicio — 2º DAW
